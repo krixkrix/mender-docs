@@ -22,6 +22,7 @@ You should:
 * have completed [Prepare a Raspberry Pi device](../01.Preparation/01.Prepare-a-Raspberry-Pi-device/docs.md). Note that this tutorial is not compatible with the virtual device.
 * have completed [Deploy an application update](../02.Deploy-an-application-update/docs.md)
 * know the IP address of your device
+* have mender-client installed on your device (`$ which mender`)
 
 
 ## Step 1 - Download the mender-artifact utility on your workstation
